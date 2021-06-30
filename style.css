@@ -36,6 +36,16 @@ body {
   box-shadow: 0 0 4px 3px #ccc;
 }
 
+.WebContainer{
+    width: 100%;
+    height: auto;
+}
+.articles{
+    width:90%; /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+}
+
 h1 {
   font-weight: normal;
   letter-spacing: .125rem;
