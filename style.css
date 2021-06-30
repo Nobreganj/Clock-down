@@ -38,7 +38,7 @@ body {
 
 h1 {
   font-weight: normal;
-  letter-spacing: .100rem;
+  letter-spacing: .50rem;
   text-transform: uppercase;
 }
 
@@ -46,7 +46,7 @@ li {
   display: inline-block;
   font-size: 0.5em;
   list-style-type: none;
-  padding: 1em;
+  padding: 0.5em;
   text-transform: uppercase;
 }
 
@@ -61,7 +61,7 @@ li span {
 }
 
 .emoji span {
-  font-size: 4rem;
+  font-size: 1rem;
   padding: 0 .5rem;
 }
 
@@ -71,7 +71,7 @@ li span {
   }
   
   li {
-    font-size: 1.125rem;
+    font-size: 0.325rem;
     padding: .75rem;
   }
   
