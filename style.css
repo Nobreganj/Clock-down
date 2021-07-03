@@ -17,23 +17,31 @@ body {
     background-size: cover;
     background-position: center center;
   display: flex;
-  font-family: "Biebas Neue", sans-serif; 
-    BlinkMacSystemFont, 
-    "Segoe UI", 
-    Roboto, 
-    Oxygen-Sans, 
-    Ubuntu, 
-    Cantarell, 
-    "Helvetica Neue", 
-    sans-serif;
+  font-family: "Poppins Bold", sans-serif; 
+    height: center;
+    position: relative;
+
 }
 
-.container {
+footer {
+
+  
+}
+.content {
   color: white;
   margin: 0 auto;
   text-align: center;
   background: #43d596;
-  box-shadow: 0 0 0px 0px ;
+  font-family: "Biebas Neue";
+  display: flex;
+
+  
+}
+
+  
+
+
+
 }
 
 h1 {
