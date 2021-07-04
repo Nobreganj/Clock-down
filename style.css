@@ -52,7 +52,7 @@ h1 {
 
 li {
   display: inline-block;
-  font-size: 0.4em;
+  font-size: 0.5em;
   list-style-type: none;
   padding: 0.5em;
   text-transform: uppercase;
@@ -60,7 +60,7 @@ li {
 
 li span {
   display: block;
-  font-size: 0.4rem;
+  font-size: 0.5rem;
 }
 
 .emoji {
@@ -79,11 +79,11 @@ li span {
   }
   
   li {
-    font-size: 0.225rem;
+    font-size: 0.325rem;
     padding: .75rem;
   }
   
   li span {
-    font-size: 0.875rem;
+    font-size: 0.975rem;
   }
 }
