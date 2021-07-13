@@ -1,5 +1,9 @@
 /* general styling */
-
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
 html, body {
   height: 100%;
@@ -9,53 +13,34 @@ html, body {
 body {
   align-items: center;
   background-image: url(https://www.globalpartnership.org/sites/default/files/docs/financing-campaign-2025/summit/blue-background-summit-v2.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
   display: flex;
-  font-family: "Poppins Bold", sans-serif; 
-    height: center;
-    position: relative;
-
+  ffont-family: 'Poppins', sans-serif;
 }
 
-footer {
-
-  
-}
-.content {
+.container {
   color: white;
   margin: 0 auto;
   text-align: center;
   font-family: 'Poppins', sans-serif;
-  display: flex;
-
-  
-}
-
-  
-
-
-
 }
 
 h1 {
   font-weight: normal;
-  letter-spacing: .30rem;
+  letter-spacing: .125rem;
   text-transform: uppercase;
 }
 
 li {
   display: inline-block;
-  font-size: 0.5em;
+  font-size: 1.5em;
   list-style-type: none;
-  padding: 0.5em;
+  padding: 1em;
   text-transform: uppercase;
 }
 
 li span {
   display: block;
-  font-size: 0.5rem;
+  font-size: 4.5rem;
 }
 
 .emoji {
@@ -64,21 +49,21 @@ li span {
 }
 
 .emoji span {
-  font-size: 1rem;
+  font-size: 4rem;
   padding: 0 .5rem;
 }
 
 @media all and (max-width: 768px) {
   h1 {
-    font-size: 0.5rem;
+    font-size: 1.5rem;
   }
   
   li {
-    font-size: 0.325rem;
+    font-size: 1.125rem;
     padding: .75rem;
   }
   
   li span {
-    font-size: 0.975rem;
+    font-size: 3.375rem;
   }
 }
