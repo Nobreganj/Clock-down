@@ -32,7 +32,7 @@ h1 {
 
 li {
   display: inline-block;
-  font-size: 0.5em;
+  font-size: 0.9em;
   list-style-type: none;
   padding: 1em;
   text-transform: uppercase;
@@ -40,7 +40,7 @@ li {
 
 li span {
   display: block;
-  font-size: 1.8rem;
+  font-size: 2.0rem;
 }
 
 .emoji {
@@ -59,11 +59,11 @@ li span {
   }
   
   li {
-    font-size: 1.125rem;
+    font-size: 1.825rem;
     padding: .75rem;
   }
   
   li span {
-    font-size: 1.275rem;
+    font-size: 1.675rem;
   }
 }
