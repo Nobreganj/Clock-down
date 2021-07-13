@@ -1,9 +1,5 @@
 /* general styling */
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
+* 
 
 html, body {
   height: 100%;
@@ -31,7 +27,6 @@ footer {
   color: white;
   margin: 0 auto;
   text-align: center;
-  background: #43d596;
   font-family: 'Poppins', sans-serif;
   display: flex;
 
