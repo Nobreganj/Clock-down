@@ -26,7 +26,7 @@ body {
 
 h1 {
   font-weight: normal;
-  letter-spacing: .125rem;
+  letter-spacing: .100rem;
   text-transform: uppercase;
 }
 
@@ -59,11 +59,11 @@ li span {
   }
   
   li {
-    font-size: 1.0rem;
+    font-size: 0.5rem;
     padding: .75rem;
   }
   
   li span {
-    font-size: 1.0rem;
+    font-size: 0.5rem;
   }
 }
