@@ -32,7 +32,7 @@ h1 {
 
 li {
   display: inline-block;
-  font-size: 0.9em;
+  font-size: 0.5em;
   list-style-type: none;
   padding: 1em;
   text-transform: uppercase;
@@ -55,15 +55,15 @@ li span {
 
 @media all and (max-width: 768px) {
   h1 {
-    font-size: 1.5rem;
+    font-size: 1.0rem;
   }
   
   li {
-    font-size: 1.825rem;
+    font-size: 1.0rem;
     padding: .75rem;
   }
   
   li span {
-    font-size: 1.675rem;
+    font-size: 1.0rem;
   }
 }
