@@ -20,7 +20,7 @@
         if (distance < 0) {
           let headline = document.getElementById("headline"),
               countdown = document.getElementById("countdown"),
-              content = document.getElementById("content");
+              content = document.getElementById("displayImage").style="display:block";
 
           headline.innerText = "It's my birthday!";
           countdown.style.display = "none";
