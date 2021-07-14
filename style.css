@@ -35,7 +35,7 @@ li {
   display: inline-block;
   font-size: 0.5em;
   list-style-type: none;
-  padding: 0.5em;
+  padding: 0.8em;
   text-transform: uppercase;
 }
 
@@ -61,7 +61,7 @@ li span {
   
   li {
     font-size: 4.0rem;
-    padding: .60rem;
+    padding: .50rem;
   }
   
   li span {
