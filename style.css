@@ -22,6 +22,7 @@ body {
   margin: 0 auto;
   text-align: center;
   font-family: 'Poppins', sans-serif;
+  padding-top: 100%; /* 1:1 Aspect Ratio */
 }
 
 h1 {
