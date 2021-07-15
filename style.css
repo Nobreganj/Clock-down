@@ -41,7 +41,7 @@ li {
 
 li span {
   display: block;
-  font-size: 10vm;
+  font-size: 20vm;
 }
 
 .emoji {
@@ -60,7 +60,7 @@ li span {
   }
   
   li {
-    font-size: 1.5rem;
+    font-size: 0.5rem;
     padding: .50rem;
   }
   
