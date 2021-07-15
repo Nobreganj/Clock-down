@@ -33,9 +33,9 @@ h4 {
 
 li {
   display: inline-block;
-  font-size: 0.5em;
+  font-size: 0.5rem;
   list-style-type: none;
-  padding: 0.7em;
+  padding: 1.0rem;
   text-transform: uppercase;
 }
 
